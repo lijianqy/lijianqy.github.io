@@ -10,8 +10,9 @@
 
 <body>
     <div id="wrapper" class="typo typo-selection">
-        <i id="tagline" class="serif">{{ page.date }}</i>
-        <br> {{ content }}
+        {{ content }}
+        <br>
+        <h3 id="date" class="serif">[{{ page.date }}]</h3>
     </div>
 </body>
 
