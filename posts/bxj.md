@@ -1,9 +1,9 @@
 ---
-title: bxj
+title: 变形记
 layout: default
 date: 2017-09-25
 ---
-# bxj
+# 变形记
 
 每年的8,9月注定都是不安分的。
 

@@ -1,6 +1,6 @@
 # LJQY Column
 
-- [bxj](posts/bxj.md)
+- [变形记](posts/bxj.md)
 - [京郊春暮](posts/springinbeijing.md)
 - [2015年总结](posts/summary-2015.md)
 - [2014年总结](posts/2014.md)
