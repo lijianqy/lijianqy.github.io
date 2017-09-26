@@ -17,10 +17,7 @@ body {
     position:relative;
 }
 
-#date {
+#postdate {
     color: #999;
-    font-size: 1em;
-    margin: -2em 0 2em;
-    padding-bottom: 2em;
     float: right; 
 }
