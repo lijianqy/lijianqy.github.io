@@ -1,5 +1,6 @@
 # LJQY Column
 
+- [2017年总结](posts/2017.md)
 - [变形记](posts/bxj.md)
 - [京郊春暮](posts/springinbeijing.md)
 - [2015年总结](posts/summary-2015.md)
