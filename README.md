@@ -1,5 +1,6 @@
 # LJQY Column
 
+- [2018年总结](posts/2018.md)
 - [黔旅纪穷](posts/gotodonkeyland.md)
 - [2017BSR-Best Skin Regards](posts/2017BSR.md)
 - [2017年总结](posts/2017.md)
