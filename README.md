@@ -1,5 +1,6 @@
 # LJQY Column
 
+- [Rolling in 33](posts/rolling-in-33.md)
 - [三十二立？](posts/32.md)
 - [2019与自己和解](posts/2019.md)
 - [2018年总结](posts/2018.md)
